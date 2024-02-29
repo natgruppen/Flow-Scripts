@@ -1,2 +1,2 @@
 git+https://github.com/natgruppen/python-flow.git
-dateutil
+python-dateutil
